@@ -1,7 +1,7 @@
 ### Hieeeee! I'm Mara. 👋
 
 
-<img src="assets/profile_asciicast.svg" width="100%" />
+<img src="assets/profile_asciicast.svg" alt="I'm the tidyverse developer advocate... shows tidyverse logo output in a window running R code" width="100%" />
 
 <!--
 **batpigandme/batpigandme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
