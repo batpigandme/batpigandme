@@ -1,8 +1,6 @@
 ### Hieeeee! I'm Mara. 👋
 
-
 <img src="assets/profile_asciicast.svg" alt="I'm the tidyverse developer advocate... shows tidyverse logo output in a window running R code" width="100%" />
-
 
 ![GitHub followers](https://img.shields.io/github/followers/batpigandme?logo=github&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/dataandme?logo=twitter&style=social)
 <!--
